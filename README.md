@@ -71,7 +71,7 @@ Replace these three cards with your real repositories. Keep only projects you wo
 
 ## 📡 Find me
 
-<a href="https://github.com/armaanxd">GitHub</a> · <a href="https://www.linkedin.com/">LinkedIn</a> · <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+<a href="https://github.com/armaanxd">GitHub</a> · <a href="https://www.linkedin.com/">LinkedIn</a> · <a href="mailto:armman3371@gmail.com">Email</a>
 
 <br />
 

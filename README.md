@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Armaanxd — cinematic anime developer banner" width="100%" />
-  <img src="./assets/flow.gif" alt="Animated neon energy trail" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg" />
+    <img src="./assets/hero-light.svg" alt="Armaanxd — cinematic anime developer banner" width="100%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/flow.gif" />
+    <img src="./assets/flow-light.gif" alt="Animated pastel energy trail" width="100%" />
+  </picture>
 
   <h1>ARMAANXD</h1>
   <p><strong>Frontend developer · Creative builder · Main-character energy</strong></p>

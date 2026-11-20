@@ -70,6 +70,13 @@ Replace these three cards with your real repositories. Keep only projects you wo
 <img src="https://img.shields.io/badge/React-171525?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
 -->
 
+## 🐍 The training arc
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/armaanxd/armaanxd/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/armaanxd/armaanxd/output/snake-light.svg" alt="Animated snake eating my GitHub contribution graph" width="100%" />
+</picture>
+
 ## 🌙 Current mission
 
 - Building projects that feel as good as they function

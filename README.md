@@ -1,11 +1,11 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg" />
-    <img src="./assets/hero-light.svg" alt="Armaanxd — cinematic anime developer banner" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-blue.svg" />
+    <img src="./assets/hero-light-blue.svg" alt="Armaanxd — cinematic anime developer banner" width="100%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/flow.gif" />
-    <img src="./assets/flow-light.gif" alt="Animated cosmic energy trail" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/flow-blue.gif" />
+    <img src="./assets/flow-light-blue.gif" alt="Animated cosmic energy trail" width="100%" />
   </picture>
 
   <h1>ARMAANXD</h1>
@@ -80,8 +80,8 @@ POWER SOURCE  →  late-night ideas and good UI
 ## 🐍 The training arc
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/armaanxd/armaanxd/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/armaanxd/armaanxd/output/snake-light.svg" alt="Animated snake eating my GitHub contribution graph" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/armaanxd/armaanxd/output/snake.svg?theme=blue" />
+  <img src="https://raw.githubusercontent.com/armaanxd/armaanxd/output/snake-light.svg?theme=blue" alt="Animated snake eating my GitHub contribution graph" width="100%" />
 </picture>
 
 ## 🌙 Current mission

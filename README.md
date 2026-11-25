@@ -92,7 +92,7 @@ POWER SOURCE  →  late-night ideas and good UI
 
 ## 📡 Find me
 
-<a href="https://github.com/armaanxd">GitHub</a> · <a href="https://www.linkedin.com/">LinkedIn</a> · <a href="mailto:armman3371@gmail.com">Email</a>
+<a href="https://github.com/armaanxd">GitHub</a> · <a href="https://www.linkedin.com/">LinkedIn</a> · <a href="mailto:armaan3371@gmail.com">Email</a>
 
 <br />
 

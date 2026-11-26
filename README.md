@@ -1,22 +1,13 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-blue.svg" />
-    <img src="./assets/hero-light-blue.svg" alt="Armaanxd — cinematic anime developer banner" width="100%" />
-  </picture>
-  <img src="./assets/wordmark-blue.svg" alt="ARMAANXD" width="100%" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/flow-blue.gif" />
-    <img src="./assets/flow-light-blue.gif" alt="Animated cosmic energy trail" width="100%" />
-  </picture>
+  <img src="./assets/hero-sunset.svg" alt="Armaan — sunset developer banner" width="100%" />
 
-  <sub>A CINEMATIC PROFILE · ARMAANXD</sub>
   <p><strong>Frontend developer · Creative builder · Delhi, India</strong></p>
 
   <a href="https://github.com/armaanxd?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+    <img src="https://img.shields.io/badge/PROJECTS-ea580c?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
   <a href="https://questfit-evj.pages.dev">
-    <img src="https://img.shields.io/badge/PLAY_QUESTFIT-4f46e5?style=for-the-badge&logo=android&logoColor=white" alt="Play QuestFit" />
+    <img src="https://img.shields.io/badge/PLAY_QUESTFIT-a855f7?style=for-the-badge&logo=android&logoColor=white" alt="Play QuestFit" />
   </a>
 
   <p>─────── ◇ ───────</p>
@@ -38,27 +29,27 @@ FOCUS   →  fitness games, local AI, health data
 
 ## 🎬 In the current cut
 
-<img src="./assets/highlights-blue.svg" alt="Now building QuestFit, focused on TypeScript and Three.js, next up local AI tools" width="100%" />
+<img src="./assets/highlights-sunset.svg" alt="Now building QuestFit, focused on TypeScript and Three.js, next up local AI tools" width="100%" />
 
 ## 🎨 Production palette
 
-<img src="./assets/stack-blue.svg" alt="Languages across my repos: Python 40%, JavaScript 40%, TypeScript 20%" width="100%" />
+<img src="./assets/stack-sunset.svg" alt="Languages across my repos: Python 40%, JavaScript 40%, TypeScript 20%" width="100%" />
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-0a1020?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0a1020?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-0a1020?style=flat-square&logo=python&logoColor=38bdf8" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-0a1020?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0a1020?style=flat-square&logo=css&logoColor=22d3ee" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Next.js-0a1020?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-0a1020?style=flat-square&logo=fastapi&logoColor=22d3ee" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Three.js-0a1020?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Capacitor-0a1020?style=flat-square&logo=capacitor&logoColor=38bdf8" alt="Capacitor" />
-  <img src="https://img.shields.io/badge/Ollama-0a1020?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/SQLite-0a1020?style=flat-square&logo=sqlite&logoColor=7dd3fc" alt="SQLite" />
-  <img src="https://img.shields.io/badge/TensorFlow-0a1020?style=flat-square&logo=tensorflow&logoColor=ff8f00" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Docker-0a1020?style=flat-square&logo=docker&logoColor=38bdf8" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-0a1020?style=flat-square&logo=git&logoColor=f05032" alt="Git" />
+  <img src="https://img.shields.io/badge/JavaScript-22111a?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-22111a?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-22111a?style=flat-square&logo=python&logoColor=f97316" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-22111a?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-22111a?style=flat-square&logo=css&logoColor=fb923c" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Next.js-22111a?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-22111a?style=flat-square&logo=fastapi&logoColor=fb923c" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Three.js-22111a?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Capacitor-22111a?style=flat-square&logo=capacitor&logoColor=f97316" alt="Capacitor" />
+  <img src="https://img.shields.io/badge/Ollama-22111a?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/SQLite-22111a?style=flat-square&logo=sqlite&logoColor=fdba74" alt="SQLite" />
+  <img src="https://img.shields.io/badge/TensorFlow-22111a?style=flat-square&logo=tensorflow&logoColor=ff8f00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Docker-22111a?style=flat-square&logo=docker&logoColor=f97316" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-22111a?style=flat-square&logo=git&logoColor=f05032" alt="Git" />
 </p>
 
 ## 🎞 Featured reel
@@ -89,13 +80,13 @@ FOCUS   →  fitness games, local AI, health data
 ## 🐍 Contribution trail
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/armaanxd/armaanxd/output/snake.svg?theme=blue" />
-  <img src="https://raw.githubusercontent.com/armaanxd/armaanxd/output/snake-light.svg?theme=blue" alt="Animated snake eating my GitHub contribution graph" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/armaanxd/armaanxd/output/snake.svg?theme=sunset" />
+  <img src="https://raw.githubusercontent.com/armaanxd/armaanxd/output/snake-light.svg?theme=sunset" alt="Animated snake eating my GitHub contribution graph" width="100%" />
 </picture>
 
 ## ♟ Play the next move
 
-<img src="./assets/chess-blue.svg" alt="Animated replay of Morphy's Opera Game, 1858, ending in 17. Rd8 checkmate" width="100%" />
+<img src="./assets/chess-sunset.svg" alt="Animated replay of Morphy's Opera Game, 1858, ending in 17. Rd8 checkmate" width="100%" />
 
 <br />
 

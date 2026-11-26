@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Armaan, frontend developer and creative builder">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1E0B24"/>
+      <stop offset=".45" stop-color="#5B1E3C"/>
+      <stop offset=".8" stop-color="#C2410C"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="360" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#sky)"/>
+    <circle cx="900" cy="250" r="120" fill="url(#sun)"/>
+    <g fill="#5B1E3C" opacity=".55">
+      <rect x="790" y="214" width="220" height="6"/><rect x="790" y="236" width="220" height="9"/><rect x="790" y="262" width="220" height="12"/>
+    </g>
+    <path d="M0 290C160 240 300 300 460 262C620 224 760 300 940 262C1060 238 1140 250 1200 240V360H0Z" fill="#3B0F24"/>
+    <path d="M0 320C200 286 380 334 600 304C800 278 980 330 1200 300V360H0Z" fill="#1A0710"/>
+    <g fill="#FFEDD5" opacity=".7">
+      <circle cx="120" cy="50" r="1.6"/><circle cx="260" cy="90" r="1.2"/><circle cx="420" cy="40" r="1.6"/>
+      <circle cx="610" cy="76" r="1.2"/><circle cx="1080" cy="48" r="1.6"/><circle cx="1150" cy="110" r="1.2"/>
+    </g>
+  </g>
+  <text x="80" y="140" fill="#FDBA74" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="5">HELLO, I'M</text>
+  <text x="76" y="205" fill="#FFF7ED" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="900" letter-spacing="3">ARMAAN</text>
+  <text x="82" y="240" fill="#FFEDD5" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">CODE • CREATE • EVOLVE</text>
+</svg>

@@ -93,6 +93,10 @@ FOCUS   →  fitness games, local AI, health data
   <img src="https://raw.githubusercontent.com/armaanxd/armaanxd/output/snake-light.svg?theme=blue" alt="Animated snake eating my GitHub contribution graph" width="100%" />
 </picture>
 
+## ♟ Play the next move
+
+<img src="./assets/chess-blue.svg" alt="Animated replay of Morphy's Opera Game, 1858, ending in 17. Rd8 checkmate" width="100%" />
+
 <br />
 
 <div align="center">

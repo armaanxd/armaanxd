@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-label="ARMAANXD">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#38BDF8"><animate attributeName="stop-color" values="#38BDF8;#22D3EE;#818CF8;#38BDF8" dur="6s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#818CF8"><animate attributeName="stop-color" values="#818CF8;#38BDF8;#22D3EE;#818CF8" dur="6s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#22D3EE" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .w{font:900 96px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:14px;fill:none;stroke:url(#g);stroke-width:2;stroke-dasharray:900;animation:draw 7s ease-in-out infinite}
+    .f{font:900 96px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:14px;fill:url(#g);animation:fill 7s ease-in-out infinite}
+    .k{font:600 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:5px;fill:#7DD3FC;opacity:.75}
+    .c{fill:#22D3EE;animation:blink 1s steps(1) infinite}
+    @keyframes draw{0%{stroke-dashoffset:900}40%,100%{stroke-dashoffset:0}}
+    @keyframes fill{0%,35%{opacity:0}55%,90%{opacity:1}100%{opacity:0}}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+  <rect width="1000" height="170" rx="18" fill="#05070D"/>
+  <text x="40" y="34" class="k">SCENE 01 · AN ORIGIN STORY</text>
+  <text x="40" y="128" class="w">ARMAANXD</text>
+  <text x="40" y="128" class="f">ARMAANXD</text>
+  <rect x="645" y="58" width="16" height="74" class="c"/>
+  <rect x="-200" y="0" width="200" height="170" fill="url(#scan)">
+    <animate attributeName="x" values="-200;1000" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
